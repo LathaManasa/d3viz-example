@@ -1,0 +1,26 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-top: 20px;
+}
+
+.donut {
+  width: 29rem;
+  height: 29rem;
+  float: left;
+}
+
+path.color1 {
+  opacity: 0;
+}
+
+.score-text {
+  font-weight: bold;
+  font-size: 38px;
+  fill: #053D60;
+}
+
+.score-rank {
+  font-weight: bold;
+  font-size: 14px;
+  fill: #053D60;
+}
